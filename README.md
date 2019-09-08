@@ -1,6 +1,3 @@
-Backend for Posterr
-
-===
 Backend for Posterr (https://github.com/Kasmadei/Postter)
 Author (https://github.com/maxfarseer)
 
