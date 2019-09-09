@@ -1,4 +1,4 @@
-Backend for Posterr (https://github.com/Kasmadei/Postter)
+Backend for Postter (https://github.com/Kasmadei/Postter)
 Author (https://github.com/maxfarseer)
 
 ## First start
